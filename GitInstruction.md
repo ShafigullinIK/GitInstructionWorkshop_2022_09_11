@@ -65,7 +65,9 @@
 ---
 Использую команду ***git branch*** мы можем увидеть список всех открытых веток. Командой ***git branch name_branch*** мы можем создать новую ветку. С помощью команды ***git checkout branch_name*** мы можем перейти на нужную нам ветку.
 ## Работа с удаленными репозиториями.
-
+Клонирование репозитория
+[Ссылка для обучения ]
+(https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository)
 ### Что такое удаленный репозиторий и для чего он нужен
 
 ### Базовая работа с удаленными репозиториями GitHub
